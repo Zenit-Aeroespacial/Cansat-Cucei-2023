@@ -15,3 +15,13 @@ Foto con todos los miembros del grupo y asesor(es),
 El archivo en formato PNG, SVG, AI o CDR del parche con el logotipo del equipo en tamaño 1000 x 1000 px a 300 dpi.
 Credencial o carta de trabajo de la institución o empresa de los asesores.
 Carta firmada por el (los) tutor(es) declarando originalidad de trabajo y dando autorización de publicación.
+
+Telemetria minima:
+
+ -Temperatura interna y externa
+ -Presión atmosférica relativa
+ -Humedad relativa del aire
+ -Altura y posición
+ -Voltaje de la alimentación eléctrica
+ -Variables de la misión específica
+ -El nombre del equipo en la trama de telemetría 
